@@ -42,3 +42,11 @@ Aim
 * Radius
 * Dice selection
 * Max. distance
+
+Misc
+
+* No-recoil
+* No-sway
+* No-spread
+
+And more other!
