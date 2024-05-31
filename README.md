@@ -1,4 +1,4 @@
-Our software are available absolutly free, and we guarantee their safety and reliability.
+Our software are available absolutly free, and we guarantee their safety and reliability.Our software are available absolutly free, and we guarantee their safety
 
 # 📁[ɪɴꜱᴛᴀʟʟ](https://emilio2732.hocoos.com/)
 
