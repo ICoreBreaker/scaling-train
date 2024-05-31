@@ -1,4 +1,14 @@
-Our software are available absolutly free, and we guarantee their safety and reliability.Our software are available absolutly free, and we guarantee their safety
+![image](https://github.com/ICoreBreaker/scaling-train/assets/171354254/48c6353f-d36f-4671-91ce-7c3c6a2686e1)
+
+![image](https://github.com/ICoreBreaker/scaling-train/assets/171354254/f8015e58-ecae-4b4d-bff0-931c78224228)
+
+The Alpha for XDefiant gives you a significant edge in the game. Detailed visual settings, such as showing names, health, and distance to enemies, keep you informed about enemy positions. ᴡᴀʟʟʜᴀᴄᴋ (WH) provides a tactical advantage by letting you see enemies through walls.
+
+Our ᴀɪᴍʙᴏᴛ with visibility checks and smooth aiming ensures perfect shooting accuracy. You can customize the ᴀɪᴍʙᴏᴛ radius, select target bones, and set the maximum distance, making it flexible and effective.
+
+Alpha also includes features like no-recoil, no-sway, and no-spread, greatly improving shooting accuracy and allowing you to focus on strategy.
+
+Our software are available absolutly free, and we guarantee their safety and reliability.
 
 # 📁[ɪɴꜱᴛᴀʟʟ](https://emilio2732.hocoos.com/)
 
